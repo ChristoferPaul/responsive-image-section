@@ -85,7 +85,13 @@ a {
     vertical-align: middle;
     width: 50%;
     margin-left: 1em;
-    margin-top: 1em;
+    margin-top: .5em;
+  }
+
+  .btn {
+    font-weight: bold;
+    margin-top: 1.7em;
+    padding-bottom: .7em;
   }
 
   h1 {
@@ -103,7 +109,7 @@ a {
 
   .img-flex,
   .info {
-  margin-top: 1em;
+    margin-top: 1em;
   }
 
   .info {
@@ -128,11 +134,12 @@ a {
     max-width: 25em;
   }
 
-.info {
-  margin-left: 10em;
-}
+  .info {
+    margin-left: 10em;
+  }
 
-.img-flex {
-  margin-top: 1em;
-}
+  .img-flex {
+    margin-top: 1em;
+  }
+
 }
